@@ -1,0 +1,68 @@
+	body {
+		background-color: #F2FFFC;
+		font-family: "Crimson Text", serif;
+		font-size: 20px;
+	}
+	main h1{
+				front-size: 60px;
+				background-color: 	#851944;
+				color: #F2FFFC;
+				text-align: left;
+				font-family: "Open Sans Condensed", "Arial";
+				padding: 20px;
+				margin: 0;
+				text-transform: uppercase;
+
+			}
+			h2 {
+				text-align: center;
+				front-size: 40px;
+				font-family: "Open Sans Condensed", sans-serif;
+				clear: both;
+			}
+			p {
+				text-align: justify;
+			}	
+			blockquote {
+				background-color: 	#D3DDDA;
+				padding: 16px;
+				border: solid 10px #C2CCCA;
+				width: 250px;
+				margin: 0;
+				box-sizing: border-box;
+				
+			}
+			strong {
+				font-weight: 600;
+				display: inline;
+			}
+			aside {
+				background: #3C1D3D;
+				color: #F2FFFC;
+				text-align: center;
+				padding: 20px;
+				font-family: "Open Sans Condensed", sans-serif
+			}
+			nav h1 {
+				font-size: 30px;
+				margin-bottom: 25px;
+			}
+			nav a {
+				color: inherit;
+			}
+			footer {
+				background-color: #000;
+				color: #F2FFFC
+				padding;
+			}
+			aside li {
+display: block;
+		.icones-sociais li {
+			display: inline-block;
+		}
+
+		#rodape-pagina {
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+}
